@@ -12,3 +12,4 @@ meglátjuk mi lesz belőle
 # ez egy megoldás
 # ez most a gépi megoldás
 # ezt most folytatom
+# és még folytatom a gépről
