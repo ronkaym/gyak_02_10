@@ -8,7 +8,4 @@ meglátjuk mi lesz belőle
 # ide mást írok, mint elsőbe
 # ide most megint írok
 #most ide írok először
-# most a gépről írok
-# most is a gépről írok
-# még folytatom a gépről
-#most ez tényleg második?
+# és ez egy vadi új
