@@ -5,3 +5,4 @@ ez további gyakorlás
 és további
 meglátjuk mi lesz belőle
 # így kell külön sor
+# ide mást írok, mint elsőbe
