@@ -5,4 +5,5 @@ ez további gyakorlás
 és további
 meglátjuk mi lesz belőle
 # így kell külön sor
-# ezt az első branchbe írom
+# ide mást írok, mint elsőbe
+
