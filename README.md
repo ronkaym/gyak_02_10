@@ -11,4 +11,4 @@ meglátjuk mi lesz belőle
 # és ez egy vadi új
 # ez egy megoldás
 # még folytatom, de rendesen
-#meg folytatom nagyon
+# ez a megoldás
