@@ -10,3 +10,4 @@ meglátjuk mi lesz belőle
 #most ide írok először
 # és ez egy vadi új
 # ez egy megoldás
+# gyűrjük, amíg meg nem értem 
