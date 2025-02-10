@@ -6,3 +6,4 @@ ez további gyakorlás
 meglátjuk mi lesz belőle
 # így kell külön sor
 # ide mást írok, mint elsőbe
+# ide most megint írok
