@@ -10,3 +10,4 @@ meglátjuk mi lesz belőle
 #most ide írok először
 # most a gépről írok
 # most is a gépről írok
+# még folytatom a gépről
