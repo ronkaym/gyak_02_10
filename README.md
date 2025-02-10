@@ -14,3 +14,4 @@ meglátjuk mi lesz belőle
 # ezt most folytatom
 # és még folytatom a gépről
 # konfliktus megoldás
+#folytassuk
