@@ -11,3 +11,4 @@ meglátjuk mi lesz belőle
 # és ez egy vadi új
 # ez egy megoldás
 # ez most a gépi megoldás
+# ezt most folytatom
