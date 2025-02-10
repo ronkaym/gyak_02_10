@@ -13,3 +13,4 @@ meglátjuk mi lesz belőle
 # ez most a gépi megoldás
 # ezt most folytatom
 # és még folytatom a gépről
+# konfliktus2
