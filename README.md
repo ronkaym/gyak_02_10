@@ -9,4 +9,4 @@ meglátjuk mi lesz belőle
 # ide most megint írok
 #most ide írok először
 # és ez egy vadi új
-# ez még egy teszt
+# ez egy megoldás
