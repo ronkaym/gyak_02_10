@@ -4,3 +4,4 @@ ez további gyakorlás
 és további
 és további
 meglátjuk mi lesz belőle
+# így kell külön sor
