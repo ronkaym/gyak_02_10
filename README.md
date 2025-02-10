@@ -11,3 +11,4 @@ meglátjuk mi lesz belőle
 # most a gépről írok
 # most is a gépről írok
 # még folytatom a gépről
+#most ez tényleg második?
